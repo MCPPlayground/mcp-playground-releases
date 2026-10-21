@@ -13,4 +13,6 @@ Windows: install from the [Microsoft Store](https://apps.microsoft.com/detail/9N
 
 Mac builds are signed with a Developer ID and notarized by Apple. The app updates itself from this repository. Source code is not published here.
 
+Docs, guides and example servers: [MCPPlayground/mcp-playground-desktop-app](https://github.com/MCPPlayground/mcp-playground-desktop-app)
+
 Support: <https://mcpplaygroundonline.com>
